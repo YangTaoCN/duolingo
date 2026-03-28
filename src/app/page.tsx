@@ -80,7 +80,7 @@ export default function Home() {
     if (!isMounted) return data;
     const isLocal = typeof window !== 'undefined' && (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') || process.env.NODE_ENV === 'development';
     return isLocal 
-      ? [{ id: 'test-localhost', title: '[DEV] 1-Word Test', difficulty: 'easy', lines: ['Test'] }, ...data]
+      ? [{ id: 'test-localhost', title: '[DEV] 1-Word Test', difficulty: 'easy', lines: ['Test'], translations: ['测试'] }, ...data]
       : data;
   }, [isMounted]);
 
@@ -224,7 +224,7 @@ export default function Home() {
       <input
         ref={inputRef}
         type="text"
-        className="opacity-0 absolute top-0 left-0 w-1 h-1"
+        className="opacity-0 fixed top-1/2 left-1/2 w-1 h-1 pointer-events-none -z-50"
         value={typedTextInCurrentLine}
         onChange={handleInputChange}
         onKeyDown={handleKeyDown}
@@ -299,13 +299,17 @@ export default function Home() {
       <div className="w-full max-w-5xl bg-neutral-800/40 p-10 md:p-14 rounded-2xl border border-neutral-700/50 shadow-2xl relative cursor-text">
         <div className="space-y-6 text-xl md:text-3xl leading-relaxed tracking-wide">
           {currentText.lines.map((line, index) => (
-            <TextLine
-              key={`${selectedTextId}-${index}`}
-              lineText={line}
-              typedText={index === currentLineIndex ? typedTextInCurrentLine : null}
-              isActive={index === currentLineIndex}
-              isPast={index < currentLineIndex}
-            />
+            <div key={`${selectedTextId}-${index}`} className="flex flex-col gap-1 mb-2">
+              <TextLine
+                lineText={line}
+                typedText={index === currentLineIndex ? typedTextInCurrentLine : null}
+                isActive={index === currentLineIndex}
+                isPast={index < currentLineIndex}
+              />
+              {currentText.translations && currentText.translations[index] && (
+                <div className="text-sm text-neutral-500 ml-1">{currentText.translations[index]}</div>
+              )}
+            </div>
           ))}
         </div>
         
