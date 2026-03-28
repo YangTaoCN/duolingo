@@ -17,23 +17,6 @@
     ]
   },
   {
-    "id": "how-to-begin-2",
-    "title": "Picture Description: How to Begin Part 2",
-    "difficulty": "medium",
-    "lines": [
-      "The visual narrative unfolding in this frame seems to be set in a contemporary corporate environment.",
-      "This striking visual composition offers a glimpse into a vibrant cultural festival.",
-      "Dominating the foreground of this picturesque landscape is a crystal-clear, meandering river.",
-      "The scene depicted here is unmistakably a crowded transit hub."
-    ],
-    "translations": [
-      "在这个画面中展开的视觉叙事似乎设定在一个现代企业环境中。",
-      "这幅引人注目的视觉作品让我们得以一窥充满活力的文化节。",
-      "在这幅如画风景的前景中，占据主导地位的是一条清澈蜿蜒的河流。",
-      "这里描绘的场景毫无疑问是一个拥挤的交通枢纽。"
-    ]
-  },
-  {
     "id": "position-1",
     "title": "Picture Description: Position Part 1",
     "difficulty": "easy",
@@ -51,23 +34,6 @@
     ]
   },
   {
-    "id": "position-2",
-    "title": "Picture Description: Position Part 2",
-    "difficulty": "medium",
-    "lines": [
-      "Towards the right-hand side of the image, a subtle yet significant detail emerges.",
-      "Nestled seamlessly between two towering structures, a narrow alleyway offers a vanishing point.",
-      "The background is predominantly occupied by a dramatic, overcast sky.",
-      "Arranged in a neat, semi-circular formation, the primary subjects command attention."
-    ],
-    "translations": [
-      "在图像的右侧，一个微妙但重要的细节显现出来。",
-      "坐落在两座高耸建筑之间的一条狭窄小巷提供了一个消失点。",
-      "背景主要被戏剧性的阴天占据。",
-      "排列成整齐的半圆形，主要对象吸引了人们的注意力。"
-    ]
-  },
-  {
     "id": "people-actions-1",
     "title": "Picture Description: People & Actions Part 1",
     "difficulty": "easy",
@@ -82,6 +48,210 @@
       "一群不同背景的人聚集在中心，正在进行讨论。",
       "一个人正在积极地用手做手势，可能是在强调某个观点。",
       "这些对象全神贯注于一项复杂的机械任务。"
+    ]
+  },
+  {
+    "id": "simple-1",
+    "title": "Picture Description: Simple Scenes 1",
+    "difficulty": "easy",
+    "lines": [
+      "In the picture, a girl reads.",
+      "She sits by a sunny window.",
+      "A small dog sleeps nearby.",
+      "The room looks quiet and warm."
+    ],
+    "translations": [
+      "在图中，一个女孩在读书。",
+      "她坐在阳光照进的窗边。",
+      "一只小狗在旁边睡觉。",
+      "房间看起来安静而温暖。"
+    ]
+  },
+  {
+    "id": "simple-2",
+    "title": "Picture Description: Simple Scenes 2",
+    "difficulty": "easy",
+    "lines": [
+      "A boy rides a red bike.",
+      "He wears a bright helmet.",
+      "The road is clean and wide.",
+      "Green trees line both sides."
+    ],
+    "translations": [
+      "一个男孩在骑红色自行车。",
+      "他戴着明亮的头盔。",
+      "道路干净又宽。",
+      "两边排列着绿树。"
+    ]
+  },
+  {
+    "id": "simple-3",
+    "title": "Picture Description: Simple Scenes 3",
+    "difficulty": "easy",
+    "lines": [
+      "Two children play in a park.",
+      "They swing high and laugh.",
+      "A mother watches on a bench.",
+      "The sky is clear and blue."
+    ],
+    "translations": [
+      "两个孩子在公园里玩。",
+      "他们荡得很高并大笑。",
+      "一位妈妈坐在长椅上看着。",
+      "天空晴朗而湛蓝。"
+    ]
+  },
+  {
+    "id": "simple-4",
+    "title": "Picture Description: Simple Scenes 4",
+    "difficulty": "easy",
+    "lines": [
+      "A family eats dinner together.",
+      "The table has rice and soup.",
+      "Everyone smiles and talks softly.",
+      "A lamp makes the room bright."
+    ],
+    "translations": [
+      "一家人一起吃晚饭。",
+      "桌上有米饭和汤。",
+      "大家微笑着轻声交谈。",
+      "一盏灯让房间很明亮。"
+    ]
+  },
+  {
+    "id": "simple-5",
+    "title": "Picture Description: Simple Scenes 5",
+    "difficulty": "easy",
+    "lines": [
+      "A woman buys fruit at a market.",
+      "She holds a small basket.",
+      "Apples and bananas look fresh.",
+      "The stall owner waves hello."
+    ],
+    "translations": [
+      "一位女士在市场买水果。",
+      "她拿着一个小篮子。",
+      "苹果和香蕉看起来很新鲜。",
+      "摊主挥手打招呼。"
+    ]
+  },
+  {
+    "id": "simple-6",
+    "title": "Picture Description: Simple Scenes 6",
+    "difficulty": "easy",
+    "lines": [
+      "Students sit in a classroom.",
+      "A teacher writes on the board.",
+      "One boy raises his hand.",
+      "The desks are neat and tidy."
+    ],
+    "translations": [
+      "学生们坐在教室里。",
+      "老师在黑板上写字。",
+      "一个男孩举起手。",
+      "课桌摆放整齐。"
+    ]
+  },
+  {
+    "id": "simple-7",
+    "title": "Picture Description: Simple Scenes 7",
+    "difficulty": "easy",
+    "lines": [
+      "People wait at a bus stop.",
+      "A bus arrives from the left.",
+      "Some carry bags and umbrellas.",
+      "The street looks busy but safe."
+    ],
+    "translations": [
+      "人们在公交站等车。",
+      "一辆公交车从左边开来。",
+      "有些人拿着包和雨伞。",
+      "街道看起来忙碌但安全。"
+    ]
+  },
+  {
+    "id": "simple-8",
+    "title": "Picture Description: Simple Scenes 8",
+    "difficulty": "easy",
+    "lines": [
+      "A man cooks in the kitchen.",
+      "Steam rises from a hot pot.",
+      "He chops vegetables on a board.",
+      "The counter is clean and dry."
+    ],
+    "translations": [
+      "一位男士在厨房做饭。",
+      "热锅冒出蒸汽。",
+      "他在菜板上切蔬菜。",
+      "台面干净而干燥。"
+    ]
+  },
+  {
+    "id": "simple-9",
+    "title": "Picture Description: Simple Scenes 9",
+    "difficulty": "easy",
+    "lines": [
+      "A couple walks on the beach.",
+      "Waves roll in slowly.",
+      "They leave footprints in the sand.",
+      "The sun is low and orange."
+    ],
+    "translations": [
+      "一对情侣在海滩上散步。",
+      "海浪缓慢地涌来。",
+      "他们在沙子上留下脚印。",
+      "太阳很低，呈橙色。"
+    ]
+  },
+  {
+    "id": "simple-10",
+    "title": "Picture Description: Simple Scenes 10",
+    "difficulty": "easy",
+    "lines": [
+      "It is raining in the city.",
+      "A girl holds a yellow umbrella.",
+      "Cars move slowly on wet roads.",
+      "Puddles shine under street lights."
+    ],
+    "translations": [
+      "城市里正在下雨。",
+      "一个女孩撑着黄色雨伞。",
+      "车辆在湿滑的路上慢慢行驶。",
+      "水坑在路灯下发亮。"
+    ]
+  },
+  {
+    "id": "how-to-begin-2",
+    "title": "Picture Description: How to Begin Part 2",
+    "difficulty": "medium",
+    "lines": [
+      "The visual narrative unfolding in this frame seems to be set in a contemporary corporate environment.",
+      "This striking visual composition offers a glimpse into a vibrant cultural festival.",
+      "Dominating the foreground of this picturesque landscape is a crystal-clear, meandering river.",
+      "The scene depicted here is unmistakably a crowded transit hub."
+    ],
+    "translations": [
+      "在这个画面中展开的视觉叙事似乎设定在一个现代企业环境中。",
+      "这幅引人注目的视觉作品让我们得以一窥充满活力的文化节。",
+      "在这幅如画风景的前景中，占据主导地位的是一条清澈蜿蜒的河流。",
+      "这里描绘的场景毫无疑问是一个拥挤的交通枢纽。"
+    ]
+  },
+  {
+    "id": "position-2",
+    "title": "Picture Description: Position Part 2",
+    "difficulty": "medium",
+    "lines": [
+      "Towards the right-hand side of the image, a subtle yet significant detail emerges.",
+      "Nestled seamlessly between two towering structures, a narrow alleyway offers a vanishing point.",
+      "The background is predominantly occupied by a dramatic, overcast sky.",
+      "Arranged in a neat, semi-circular formation, the primary subjects command attention."
+    ],
+    "translations": [
+      "在图像的右侧，一个微妙但重要的细节显现出来。",
+      "坐落在两座高耸建筑之间的一条狭窄小巷提供了一个消失点。",
+      "背景主要被戏剧性的阴天占据。",
+      "排列成整齐的半圆形，主要对象吸引了人们的注意力。"
     ]
   },
   {
