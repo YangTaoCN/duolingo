@@ -98,9 +98,6 @@ export default function Home() {
   const [totalCorrectChars, setTotalCorrectChars] = useState(0);
   const [totalTypedChars, setTotalTypedChars] = useState(0);
 
-  const [isLoggedIn, setIsLoggedIn] = useState(false);
-  const [loginRole, setLoginRole] = useState<string | null>(null);
-
   const inputRef = useRef<HTMLInputElement>(null);
 
   // Timer effect
@@ -237,26 +234,6 @@ export default function Home() {
         <div className="flex flex-col gap-2 w-full md:w-auto z-20 relative">
           <div className="flex items-center">
             <h1 className="text-2xl font-bold text-white tracking-tight">Typing Practice</h1>
-            {isLoggedIn ? (
-              <span className="text-sm text-green-400 font-bold ml-4 border border-green-500/50 rounded px-2 py-0.5">Logged In</span>
-            ) : (
-              <button 
-                onClick={(e) => {
-                  e.stopPropagation();
-                  const answer = window.prompt("前院的风");
-                  if (answer === "后院的篝火") {
-                    setIsLoggedIn(true);
-                    setLoginRole('wife');
-                    alert("Login Successful!");
-                  } else if (answer !== null) {
-                    alert("Incorrect Password");
-                  }
-                }}
-                className="text-sm bg-neutral-700 hover:bg-neutral-600 text-white py-1 px-3 rounded ml-4 transition-colors"
-              >
-                Login
-              </button>
-            )}
           </div>
           <select 
             value={selectedTextId}
@@ -326,36 +303,33 @@ export default function Home() {
             >
               Try Again
             </button>
-            {isLoggedIn && (
               <button
                 onClick={(e) => {
                   e.stopPropagation();
-                  const now = new Date();
-                  const year = now.getFullYear();
-                  const month = String(now.getMonth() + 1).padStart(2, '0');
-                  const day = String(now.getDate()).padStart(2, '0');
-                  const hours = String(now.getHours()).padStart(2, '0');
-                  const minutes = String(now.getMinutes()).padStart(2, '0');
-                  const seconds = String(now.getSeconds()).padStart(2, '0');
-                  const timeStr = `${year}-${month}-${day} ${hours}:${minutes}:${seconds}`;
-                  
-                  let recipient = '';
-                  let subject = `Typing Report: ${currentText.title}`;
-                  let body = `Title: ${currentText.title}\nTime: ${timeStr}\nWPM: ${wpm}\nAccuracy: ${accuracy}%`;
-
-                  if (loginRole === 'wife') {
-                    recipient = 'yangtao.ch@gmail.com';
-                    subject = "报告老公大人！我今天的打字练习完成啦 🏆";
-                    body = `老公亲爱的~ 💖\n\n你看我今天超棒的，刚刚完成了一组打字练习，快来夸夸我！(求表扬 🥺✨)\n\n📝 练习内容：${currentText.title}\n⏰ 完成时间：${timeStr}\n⚡️ 打字速度：${wpm} WPM (手速飞快有没有！)\n🎯 准确率：${accuracy}% (我超认真的！)\n\n想要亲亲抱抱和奖励！🥰\n\n爱你的老婆`;
+                  const answer = window.prompt("前院的风");
+                  if (answer === "后院的篝火") {
+                    const now = new Date();
+                    const year = now.getFullYear();
+                    const month = String(now.getMonth() + 1).padStart(2, '0');
+                    const day = String(now.getDate()).padStart(2, '0');
+                    const hours = String(now.getHours()).padStart(2, '0');
+                    const minutes = String(now.getMinutes()).padStart(2, '0');
+                    const seconds = String(now.getSeconds()).padStart(2, '0');
+                    const timeStr = `${year}-${month}-${day} ${hours}:${minutes}:${seconds}`;
+                    
+                    const recipient = 'yangtao.ch@gmail.com';
+                    const subject = "报告老公大人！我今天的打字练习完成啦 🏆";
+                    const body = `老公亲爱的~ 💖\n\n你看我今天超棒的，刚刚完成了一组打字练习，快来夸夸我！(求表扬 🥺✨)\n\n📝 练习内容：${currentText.title}\n⏰ 完成时间：${timeStr}\n⚡️ 打字速度：${wpm} WPM (手速飞快有没有！)\n🎯 准确率：${accuracy}% (我超认真的！)\n\n想要亲亲抱抱和奖励！🥰\n\n爱你的老婆`;
+                    
+                    window.location.href = `mailto:${recipient}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+                  } else if (answer !== null) {
+                    alert("Incorrect Password");
                   }
-                  
-                  window.location.href = `mailto:${recipient}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
                 }}
                 className="mt-4 bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-8 rounded-xl transition-colors"
               >
                 Report Score
               </button>
-            )}
           </div>
         )}
       </div>
