@@ -1,274 +1,512 @@
 [
   {
-    "id": "how-to-begin-1",
-    "title": "Picture Description: How to Begin Part 1",
-    "difficulty": "easy",
+    "id": "desc-1",
+    "title": "看图说话：公园午餐 (Part 1)",
+    "difficulty": "medium",
     "lines": [
-      "This captivating image immediately draws the viewer's attention to a bustling city street.",
-      "At first glance, the photograph captures a lively outdoor market scene.",
-      "The central focal point of this picture is a majestic, ancient oak tree.",
-      "In this intriguing photograph, we are presented with a serene domestic setting."
+      "The girl sits on a bench.",
+      "She holds a sandwich.",
+      "The sun shines brightly.",
+      "She enjoys her tasty lunch while watching colorful birds fly across the sunny park."
     ],
     "translations": [
-      "这张迷人的图片立刻吸引了观者的目光，展现了一条熙熙攘攘的城市街道。",
-      "乍一看，这张照片捕捉到了一个生机勃勃的户外市场场景。",
-      "这张图片的中心焦点是一棵雄伟古老的橡树。",
-      "在这张引人入胜的照片中，我们看到了一个宁静的家庭环境。"
+      "女孩坐在长椅上。",
+      "她拿着一个三明治。",
+      "阳光灿烂。",
+      "她一边享用美味的午餐，一边看着色彩斑斓的鸟儿飞过阳光明媚的公园。"
     ]
   },
   {
-    "id": "position-1",
-    "title": "Picture Description: Position Part 1",
-    "difficulty": "easy",
+    "id": "desc-2",
+    "title": "看图说话：狗狗玩耍 (Part 1)",
+    "difficulty": "medium",
     "lines": [
-      "In the foreground, a prominent structural element anchors the composition.",
-      "Situated toward the upper left corner of the frame, a distinct architectural feature stands out.",
-      "Scattered throughout the middle ground, numerous smaller objects create a complex pattern.",
-      "The overarching layout of the scene is highly symmetrical."
+      "The dog chases a ball.",
+      "It runs on grass.",
+      "A boy stands nearby.",
+      "The energetic golden puppy happily fetches the red rubber ball from the green backyard."
     ],
     "translations": [
-      "在前景中，一个显著的结构元素稳定了整个画面。",
-      "在画面的左上角，一个独特的建筑特征引人注目。",
-      "散布在整个中景中，许多较小的物体形成了一个复杂的图案。",
-      "场景的整体布局高度对称。"
+      "狗狗追着球跑。",
+      "它在草地上跑。",
+      "一个男孩站在旁边。",
+      "精力充沛的金毛小狗开心地从绿色后院衔回红色的橡胶球。"
     ]
   },
   {
-    "id": "people-actions-1",
-    "title": "Picture Description: People & Actions Part 1",
-    "difficulty": "easy",
+    "id": "desc-3",
+    "title": "看图说话：课堂学习 (Part 1)",
+    "difficulty": "medium",
     "lines": [
-      "The individuals captured in this frame appear to share a profound and genuine connection.",
-      "A diverse group of people is congregated in the center, engaged in discussion.",
-      "One individual is actively gesturing with their hands, likely emphasizing a point.",
-      "The subjects are deeply absorbed in an intricate mechanical task."
+      "Students sit at desks.",
+      "A teacher writes on a board.",
+      "One girl raises her hand.",
+      "The focused students take careful notes while listening to their teacher's engaging lesson."
     ],
     "translations": [
-      "这个画面中捕捉到的人物似乎有着深刻而真挚的联系。",
-      "一群不同背景的人聚集在中心，正在进行讨论。",
-      "一个人正在积极地用手做手势，可能是在强调某个观点。",
-      "这些对象全神贯注于一项复杂的机械任务。"
-    ]
-  },
-  {
-    "id": "simple-1",
-    "title": "Picture Description: Simple Scenes 1",
-    "difficulty": "easy",
-    "lines": [
-      "In the picture, a girl reads.",
-      "She sits by a sunny window.",
-      "A small dog sleeps nearby.",
-      "The room looks quiet and warm."
-    ],
-    "translations": [
-      "在图中，一个女孩在读书。",
-      "她坐在阳光照进的窗边。",
-      "一只小狗在旁边睡觉。",
-      "房间看起来安静而温暖。"
-    ]
-  },
-  {
-    "id": "simple-2",
-    "title": "Picture Description: Simple Scenes 2",
-    "difficulty": "easy",
-    "lines": [
-      "A boy rides a red bike.",
-      "He wears a bright helmet.",
-      "The road is clean and wide.",
-      "Green trees line both sides."
-    ],
-    "translations": [
-      "一个男孩在骑红色自行车。",
-      "他戴着明亮的头盔。",
-      "道路干净又宽。",
-      "两边排列着绿树。"
-    ]
-  },
-  {
-    "id": "simple-3",
-    "title": "Picture Description: Simple Scenes 3",
-    "difficulty": "easy",
-    "lines": [
-      "Two children play in a park.",
-      "They swing high and laugh.",
-      "A mother watches on a bench.",
-      "The sky is clear and blue."
-    ],
-    "translations": [
-      "两个孩子在公园里玩。",
-      "他们荡得很高并大笑。",
-      "一位妈妈坐在长椅上看着。",
-      "天空晴朗而湛蓝。"
-    ]
-  },
-  {
-    "id": "simple-4",
-    "title": "Picture Description: Simple Scenes 4",
-    "difficulty": "easy",
-    "lines": [
-      "A family eats dinner together.",
-      "The table has rice and soup.",
-      "Everyone smiles and talks softly.",
-      "A lamp makes the room bright."
-    ],
-    "translations": [
-      "一家人一起吃晚饭。",
-      "桌上有米饭和汤。",
-      "大家微笑着轻声交谈。",
-      "一盏灯让房间很明亮。"
-    ]
-  },
-  {
-    "id": "simple-5",
-    "title": "Picture Description: Simple Scenes 5",
-    "difficulty": "easy",
-    "lines": [
-      "A woman buys fruit at a market.",
-      "She holds a small basket.",
-      "Apples and bananas look fresh.",
-      "The stall owner waves hello."
-    ],
-    "translations": [
-      "一位女士在市场买水果。",
-      "她拿着一个小篮子。",
-      "苹果和香蕉看起来很新鲜。",
-      "摊主挥手打招呼。"
-    ]
-  },
-  {
-    "id": "simple-6",
-    "title": "Picture Description: Simple Scenes 6",
-    "difficulty": "easy",
-    "lines": [
-      "Students sit in a classroom.",
-      "A teacher writes on the board.",
-      "One boy raises his hand.",
-      "The desks are neat and tidy."
-    ],
-    "translations": [
-      "学生们坐在教室里。",
+      "学生们坐在课桌前。",
       "老师在黑板上写字。",
-      "一个男孩举起手。",
-      "课桌摆放整齐。"
+      "一个女孩举起手。",
+      "专注的学生们一边认真做笔记，一边聆听老师引人入胜的课程。"
     ]
   },
   {
-    "id": "simple-7",
-    "title": "Picture Description: Simple Scenes 7",
-    "difficulty": "easy",
+    "id": "desc-4",
+    "title": "看图说话：家庭晚餐 (Part 1)",
+    "difficulty": "medium",
+    "lines": [
+      "A family sits at a table.",
+      "They eat rice and soup.",
+      "Everyone smiles warmly.",
+      "The loving family shares stories and laughs together during their cozy evening meal."
+    ],
+    "translations": [
+      "一家人坐在餐桌旁。",
+      "他们吃米饭和汤。",
+      "大家都温暖地微笑着。",
+      "充满爱意的一家人在温馨的晚餐时光里分享故事，一起欢笑。"
+    ]
+  },
+  {
+    "id": "desc-5",
+    "title": "看图说话：市场购物 (Part 1)",
+    "difficulty": "medium",
+    "lines": [
+      "A woman holds a basket.",
+      "She looks at fresh apples.",
+      "The stall owner smiles.",
+      "The friendly customer carefully selects ripe, juicy fruits from the bustling street market stall."
+    ],
+    "translations": [
+      "一位女士拿着篮子。",
+      "她看着新鲜的苹果。",
+      "摊主微笑着。",
+      "友善的顾客从熙熙攘攘的街市摊位上仔细挑选成熟多汁的水果。"
+    ]
+  },
+  {
+    "id": "desc-6",
+    "title": "看图说话：海滩散步 (Part 1)",
+    "difficulty": "medium",
+    "lines": [
+      "A couple walks on sand.",
+      "Waves roll gently.",
+      "The sun sets slowly.",
+      "The romantic couple enjoys a peaceful evening stroll as the warm sun dips below the horizon."
+    ],
+    "translations": [
+      "一对情侣在沙滩上散步。",
+      "海浪轻轻翻滚。",
+      "太阳慢慢落下。",
+      "这对浪漫的情侣享受着宁静的夜晚漫步，温暖的太阳渐渐沉入地平线。"
+    ]
+  },
+  {
+    "id": "desc-7",
+    "title": "看图说话：雨天出行 (Part 1)",
+    "difficulty": "medium",
+    "lines": [
+      "It rains heavily outside.",
+      "A girl holds a yellow umbrella.",
+      "Cars drive slowly.",
+      "The cautious pedestrian carefully navigates the slippery city streets while avoiding deep puddles."
+    ],
+    "translations": [
+      "外面雨下得很大。",
+      "一个女孩撑着黄色雨伞。",
+      "汽车缓慢行驶。",
+      "谨慎的行人小心翼翼地走过湿滑的城市街道，同时避开深深的水坑。"
+    ]
+  },
+  {
+    "id": "desc-8",
+    "title": "看图说话：厨房做饭 (Part 1)",
+    "difficulty": "medium",
+    "lines": [
+      "A man chops vegetables.",
+      "Steam rises from a pot.",
+      "A cat sits on the floor.",
+      "The experienced chef prepares a delicious, healthy meal while his curious cat watches intently."
+    ],
+    "translations": [
+      "一位男士切蔬菜。",
+      "蒸汽从锅里冒出来。",
+      "一只猫坐在地板上。",
+      "经验丰富的厨师一边准备美味健康的饭菜，一边让好奇的猫专注地看着。"
+    ]
+  },
+  {
+    "id": "desc-9",
+    "title": "看图说话：公园秋千 (Part 1)",
+    "difficulty": "medium",
+    "lines": [
+      "Two children swing high.",
+      "They laugh loudly.",
+      "A mother sits on a bench.",
+      "The playful siblings swing higher and higher, their laughter echoing through the quiet, green park."
+    ],
+    "translations": [
+      "两个孩子荡得很高。",
+      "他们大声笑。",
+      "一位妈妈坐在长椅上。",
+      "调皮的兄弟姐妹越荡越高，他们的笑声在安静的绿色公园里回荡。"
+    ]
+  },
+  {
+    "id": "desc-10",
+    "title": "看图说话：骑自行车 (Part 1)",
+    "difficulty": "medium",
+    "lines": [
+      "A boy rides a bike.",
+      "He wears a blue helmet a.",
+      "Trees line the road.",
+      "The young cyclist confidently rides his shiny new bike along the tree-lined suburban street."
+    ],
+    "translations": [
+      "一个男孩骑自行车。",
+      "他戴着蓝色头盔。",
+      "树木排列在道路两旁。",
+      "年轻的骑车人自信地骑着他闪亮的新自行车，沿着绿树成荫的郊区街道前行。"
+    ]
+  },
+  {
+    "id": "desc-11",
+    "title": "看图说话：图书馆阅读 (Part 1)",
+    "difficulty": "medium",
+    "lines": [
+      "A girl reads a book.",
+      "She sits by a window.",
+      "The room is quiet.",
+      "The dedicated reader loses herself in an exciting adventure novel while soft sunlight streams through the window."
+    ],
+    "translations": [
+      "一个女孩在看书。",
+      "她坐在窗边。",
+      "房间很安静。",
+      "专注的读者沉浸在一本激动人心的冒险小说中，柔和的阳光透过窗户洒进来。"
+    ]
+  },
+  {
+    "id": "desc-12",
+    "title": "看图说话：洗衣家务 (Part 1)",
+    "difficulty": "medium",
+    "lines": [
+      "A woman folds clothes.",
+      "A basket sits nearby.",
+      "The clothes are clean.",
+      "The organized housewife carefully folds freshly laundered clothes, arranging them neatly on the wooden table."
+    ],
+    "translations": [
+      "一位女士叠衣服。",
+      "一个篮子放在旁边。",
+      "衣服是干净的。",
+      "有条理的家庭主妇仔细叠好刚洗过的衣服，整齐地摆放在木桌上。"
+    ]
+  },
+  {
+    "id": "desc-13",
+    "title": "看图说话：花园浇水 (Part 1)",
+    "difficulty": "medium",
+    "lines": [
+      "A man holds a watering can.",
+      "He waters green plants.",
+      "Flowers bloom brightly.",
+      "The passionate gardener gently waters his vibrant flower bed, nurturing each plant with care and attention."
+    ],
+    "translations": [
+      "一位男士拿着喷壶。",
+      "他给绿色植物浇水。",
+      "花朵灿烂地开放。",
+      "充满热情的园丁轻轻地给他生机勃勃的花坛浇水，细心呵护每一株植物。"
+    ]
+  },
+  {
+    "id": "desc-14",
+    "title": "看图说话：公交车站 (Part 1)",
+    "difficulty": "medium",
     "lines": [
       "People wait at a bus stop.",
-      "A bus arrives from the left.",
-      "Some carry bags and umbrellas.",
-      "The street looks busy but safe."
+      "A bus approaches slowly.",
+      "Some carry bags.",
+      "The commuters patiently wait for the city bus, checking their phones while listening to the bustling street sounds."
     ],
     "translations": [
-      "人们在公交站等车。",
-      "一辆公交车从左边开来。",
-      "有些人拿着包和雨伞。",
-      "街道看起来忙碌但安全。"
+      "人们在公交车站等车。",
+      "一辆公交车慢慢驶来。",
+      "有些人拿着包。",
+      "通勤者耐心地等待城市公交车，一边看手机，一边听着熙熙攘攘的街道声音。"
     ]
   },
   {
-    "id": "simple-8",
-    "title": "Picture Description: Simple Scenes 8",
-    "difficulty": "easy",
-    "lines": [
-      "A man cooks in the kitchen.",
-      "Steam rises from a hot pot.",
-      "He chops vegetables on a board.",
-      "The counter is clean and dry."
-    ],
-    "translations": [
-      "一位男士在厨房做饭。",
-      "热锅冒出蒸汽。",
-      "他在菜板上切蔬菜。",
-      "台面干净而干燥。"
-    ]
-  },
-  {
-    "id": "simple-9",
-    "title": "Picture Description: Simple Scenes 9",
-    "difficulty": "easy",
-    "lines": [
-      "A couple walks on the beach.",
-      "Waves roll in slowly.",
-      "They leave footprints in the sand.",
-      "The sun is low and orange."
-    ],
-    "translations": [
-      "一对情侣在海滩上散步。",
-      "海浪缓慢地涌来。",
-      "他们在沙子上留下脚印。",
-      "太阳很低，呈橙色。"
-    ]
-  },
-  {
-    "id": "simple-10",
-    "title": "Picture Description: Simple Scenes 10",
-    "difficulty": "easy",
-    "lines": [
-      "It is raining in the city.",
-      "A girl holds a yellow umbrella.",
-      "Cars move slowly on wet roads.",
-      "Puddles shine under street lights."
-    ],
-    "translations": [
-      "城市里正在下雨。",
-      "一个女孩撑着黄色雨伞。",
-      "车辆在湿滑的路上慢慢行驶。",
-      "水坑在路灯下发亮。"
-    ]
-  },
-  {
-    "id": "how-to-begin-2",
-    "title": "Picture Description: How to Begin Part 2",
+    "id": "desc-15",
+    "title": "看图说话：咖啡馆小憩 (Part 1)",
     "difficulty": "medium",
     "lines": [
-      "The visual narrative unfolding in this frame seems to be set in a contemporary corporate environment.",
-      "This striking visual composition offers a glimpse into a vibrant cultural festival.",
-      "Dominating the foreground of this picturesque landscape is a crystal-clear, meandering river.",
-      "The scene depicted here is unmistakably a crowded transit hub."
+      "A woman drinks coffee.",
+      "She sits at a small table.",
+      "A laptop is open.",
+      "The busy professional takes a well-deserved break, sipping warm coffee while reviewing work documents."
     ],
     "translations": [
-      "在这个画面中展开的视觉叙事似乎设定在一个现代企业环境中。",
-      "这幅引人注目的视觉作品让我们得以一窥充满活力的文化节。",
-      "在这幅如画风景的前景中，占据主导地位的是一条清澈蜿蜒的河流。",
-      "这里描绘的场景毫无疑问是一个拥挤的交通枢纽。"
+      "一位女士喝咖啡。",
+      "她坐在一张小桌子旁。",
+      "一台笔记本电脑开着。",
+      "忙碌的专业人士享受着当之无愧的休息时间，一边喝着热咖啡，一边查看工作文件。"
     ]
   },
   {
-    "id": "position-2",
-    "title": "Picture Description: Position Part 2",
+    "id": "desc-16",
+    "title": "看图说话：宠物店 (Part 1)",
     "difficulty": "medium",
     "lines": [
-      "Towards the right-hand side of the image, a subtle yet significant detail emerges.",
-      "Nestled seamlessly between two towering structures, a narrow alleyway offers a vanishing point.",
-      "The background is predominantly occupied by a dramatic, overcast sky.",
-      "Arranged in a neat, semi-circular formation, the primary subjects command attention."
+      "A girl looks at puppies.",
+      "The puppies play in a cage.",
+      "A worker smiles nearby.",
+      "The excited child gazes at the fluffy, playful puppies, dreaming of taking one home as a new pet."
     ],
     "translations": [
-      "在图像的右侧，一个微妙但重要的细节显现出来。",
-      "坐落在两座高耸建筑之间的一条狭窄小巷提供了一个消失点。",
-      "背景主要被戏剧性的阴天占据。",
-      "排列成整齐的半圆形，主要对象吸引了人们的注意力。"
+      "一个女孩看着小狗。",
+      "小狗在笼子里玩耍。",
+      "一位工作人员在旁边微笑。",
+      "兴奋的孩子盯着毛茸茸、调皮的小狗，梦想着带一只回家当新宠物。"
     ]
   },
   {
-    "id": "people-actions-2",
-    "title": "Picture Description: People & Actions Part 2",
+    "id": "desc-17",
+    "title": "看图说话：滑雪运动 (Part 1)",
     "difficulty": "medium",
     "lines": [
-      "The solitary figure in the foreground exudes a poignant sense of contemplation.",
-      "A collective, synchronized effort is clearly underway as the team members maneuver equipment.",
-      "The person on the left is tentatively reaching out to offer assistance.",
-      "The crowd is collectively reacting to an unseen event outside the frame."
+      "A man skis down a hill.",
+      "He wears warm clothes.",
+      "Snow covers the ground.",
+      "The skilled skier gracefully glides down the snow-covered mountain slope, enjoying the crisp winter air."
     ],
     "translations": [
-      "前景中孤单的身影散发出一种令人动容的沉思感。",
-      "当团队成员操纵设备时，一场集体的同步协作正在进行中。",
-      "左边的人试探性地伸出手提供帮助。",
-      "人群正在集体对画面外未见到的事件做出反应。"
+      "一位男士从山上滑雪下来。",
+      "他穿着暖和的衣服。",
+      "雪覆盖着地面。",
+      "技术娴熟的滑雪者优雅地滑下白雪覆盖的山坡，享受着清新的冬日空气。"
+    ]
+  },
+  {
+    "id": "desc-18",
+    "title": "看图说话：画画创作 (Part 1)",
+    "difficulty": "medium",
+    "lines": [
+      "A boy paints a picture.",
+      "He holds a paintbrush.",
+      "Colors are on the table.",
+      "The creative artist carefully mixes vibrant colors, bringing his imaginative landscape painting to life."
+    ],
+    "translations": [
+      "一个男孩在画画。",
+      "他拿着画笔。",
+      "颜料放在桌子上。",
+      "富有创造力的艺术家仔细调配鲜艳的颜色，让他富有想象力的风景画栩栩如生。"
+    ]
+  },
+  {
+    "id": "desc-19",
+    "title": "看图说话：晨跑锻炼 (Part 1)",
+    "difficulty": "medium",
+    "lines": [
+      "A woman runs in a park.",
+      "She wears a red jacket.",
+      "The sun rises in the sky.",
+      "The dedicated jogger starts her day with an invigorating morning run as the golden sun rises above the trees."
+    ],
+    "translations": [
+      "一位女士在公园里跑步。",
+      "她穿着红色夹克。",
+      "太阳在天空中升起。",
+      "专注的慢跑者以一场振奋人心的晨跑开始她的一天，金色的太阳从树上升起。"
+    ]
+  },
+  {
+    "id": "desc-20",
+    "title": "看图说话：喂鸟喂食 (Part 1)",
+    "difficulty": "medium",
+    "lines": [
+      "An old man holds birdseed.",
+      "Birds fly around him.",
+      "He stands in a garden.",
+      "The kind retiree spends his morning feeding hungry birds, enjoying their cheerful songs in his peaceful backyard garden."
+    ],
+    "translations": [
+      "一位老人拿着鸟食。",
+      "鸟儿在他周围飞。",
+      "他站在花园里。",
+      "善良的退休老人用他的早晨喂食饥饿的鸟儿，在他宁静的后院花园里享受它们欢快的歌声。"
+    ]
+  },
+  {
+    "id": "desc-21",
+    "title": "看图说话：超市购物 (Part 1)",
+    "difficulty": "medium",
+    "lines": [
+      "A woman pushes a cart.",
+      "She picks up milk.",
+      "Shelves are full of goods.",
+      "The busy shopper carefully selects essential items from the well-stocked supermarket shelves, checking her shopping list."
+    ],
+    "translations": [
+      "一位女士推着购物车。",
+      "她拿起牛奶。",
+      "货架上摆满了商品。",
+      "忙碌的购物者从库存充足的超市货架上仔细挑选必需品，查看她的购物清单。"
+    ]
+  },
+  {
+    "id": "desc-22",
+    "title": "看图说话：修自行车 (Part 1)",
+    "difficulty": "medium",
+    "lines": [
+      "A man fixes a bike.",
+      "He uses a wrench.",
+      "The bike is on the ground.",
+      "The skilled mechanic carefully adjusts the bike's broken chain, getting it ready for another ride."
+    ],
+    "translations": [
+      "一位男士修理自行车。",
+      "他使用扳手。",
+      "自行车在地上。",
+      "技术熟练的机械师仔细调整自行车的断链，准备再次骑行。"
+    ]
+  },
+  {
+    "id": "desc-23",
+    "title": "看图说话：做手工 (Part 1)",
+    "difficulty": "medium",
+    "lines": [
+      "A girl glues paper.",
+      "She sits at a desk.",
+      "Scissors are nearby.",
+      "The creative child meticulously cuts and glues colorful paper, creating a beautiful handmade greeting card."
+    ],
+    "translations": [
+      "一个女孩在粘纸。",
+      "她坐在书桌前。",
+      "剪刀在旁边。",
+      "富有创造力的孩子精心裁剪和粘贴彩色纸，制作一张美丽的手工贺卡。"
+    ]
+  },
+  {
+    "id": "desc-24",
+    "title": "看图说话：看医生 (Part 1)",
+    "difficulty": "medium",
+    "lines": [
+      "A boy sits on a chair.",
+      "A doctor listens to his heart.",
+      "The boy looks nervous.",
+      "The caring doctor gently checks the anxious boy's heartbeat, explaining the simple procedure in a calm voice."
+    ],
+    "translations": [
+      "一个男孩坐在椅子上。",
+      "医生听他的心跳。",
+      "男孩看起来很紧张。",
+      "关心病人的医生轻轻地检查焦虑男孩的心跳，用平静的声音解释简单的程序。"
+    ]
+  },
+  {
+    "id": "desc-25",
+    "title": "看图说话：坐飞机 (Part 1)",
+    "difficulty": "medium",
+    "lines": [
+      "A woman looks out the window.",
+      "The plane is in the air.",
+      "Clouds are below.",
+      "The excited traveler enjoys a breathtaking view of fluffy white clouds from her comfortable airplane seat."
+    ],
+    "translations": [
+      "一位女士望向窗外。",
+      "飞机在空中。",
+      "云在下面。",
+      "兴奋的旅客从舒适的飞机座位上欣赏着蓬松白云的壮丽景色。"
+    ]
+  },
+  {
+    "id": "desc-26",
+    "title": "看图说话：游泳运动 (Part 1)",
+    "difficulty": "medium",
+    "lines": [
+      "A boy swims in a pool.",
+      "He wears blue shorts.",
+      "The water is clear.",
+      "The confident swimmer practices his diving technique while the coach watches from the poolside."
+    ],
+    "translations": [
+      "一个男孩在游泳池里游泳。",
+      "他穿着蓝色短裤。",
+      "水很清澈。",
+      "自信的游泳者练习他的跳水技巧，教练在池边观看。"
+    ]
+  },
+  {
+    "id": "desc-27",
+    "title": "看图说话：生日派对 (Part 1)",
+    "difficulty": "medium",
+    "lines": [
+      "Children play with balloons.",
+      "A cake sits on a table.",
+      "Everyone looks happy.",
+      "The birthday girl blows out her candles while her friends sing the birthday song together."
+    ],
+    "translations": [
+      "孩子们玩气球。",
+      "蛋糕放在桌子上。",
+      "每个人看起来都很开心。",
+      "生日女孩吹灭蜡烛，朋友们一起唱生日歌。"
+    ]
+  },
+  {
+    "id": "desc-28",
+    "title": "看图说话：钓鱼休闲 (Part 1)",
+    "difficulty": "medium",
+    "lines": [
+      "A man holds a fishing rod.",
+      "He sits by a lake.",
+      "The water is calm.",
+      "The patient fisherman waits quietly for a fish to bite while enjoying the peaceful lakeside scenery."
+    ],
+    "translations": [
+      "一位男士拿着钓鱼竿。",
+      "他坐在湖边。",
+      "水面平静。",
+      "耐心的钓鱼者安静地等待鱼儿上钩，同时享受宁静的湖边风景。"
+    ]
+  },
+  {
+    "id": "desc-29",
+    "title": "看图说话：打篮球 (Part 1)",
+    "difficulty": "medium",
+    "lines": [
+      "Boys play basketball.",
+      "They run on a court.",
+      "One boy shoots the ball.",
+      "The energetic team practices their passing skills while preparing for the upcoming basketball tournament."
+    ],
+    "translations": [
+      "男孩们打篮球。",
+      "他们在球场上跑。",
+      "一个男孩投篮。",
+      "精力充沛的队伍练习传球技巧，为即将到来的篮球比赛做准备。"
+    ]
+  },
+  {
+    "id": "desc-30",
+    "title": "看图说话：露营篝火 (Part 1)",
+    "difficulty": "medium",
+    "lines": [
+      "People sit around a fire.",
+      "A man plays a guitar.",
+      "The sky is very dark.",
+      "The happy friends sing cheerful songs together while roasting sweet marshmallows over the warm, crackling campfire."
+    ],
+    "translations": [
+      "人们围坐在火堆旁。",
+      "一位男士弹吉他。",
+      "天空很暗。",
+      "快乐的朋友们一起唱着欢快的歌，同时在温暖、噼啪作响的篝火上烤着甜甜的棉花糖。"
     ]
   }
 ]
